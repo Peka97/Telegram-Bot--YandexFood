@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0246adb-1d77-4e5d-9fdf-a727063c822b" name="Server Yandex">
+        <fileTransfer rootFolder="/home/peka97" accessType="SFTP" host="eda-tg-selfiebot01.sas.yp-c.yandex.net" port="22" sshConfigId="6cca9cd1-c9e4-4b87-bb05-673f602e4cd3" sshConfig="peka97@eda-tg-selfiebot01.sas.yp-c.yandex.net:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

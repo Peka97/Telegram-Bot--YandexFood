@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="eda-tg-selfiebot01.sas.yp-c.yandex.net" id="6cca9cd1-c9e4-4b87-bb05-673f602e4cd3" keyPath="C:\SHH\private.ppk" port="22" nameFormat="DESCRIPTIVE" username="peka97" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
